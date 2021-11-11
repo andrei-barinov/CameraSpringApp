@@ -1,9 +1,9 @@
-public class Assistant {
+public class Assistant  {
 
      Camera camera;
 
     public Camera getCamera() {
-        return camera;
+        return new Camera();
     }
 
 
